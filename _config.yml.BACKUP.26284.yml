@@ -34,10 +34,13 @@ menu:
   home: /
   archives: /archives
   tags: /tags
+<<<<<<< HEAD
   #categories: /categories
   about: /about
   #schedule: /schedule
+=======
   #sitemap: /sitemap.xml
+>>>>>>> aba53d233d1caaf8cb7eb8faa875d077d6474e14
   #commonweal: /404.html
 
 
@@ -204,6 +207,26 @@ sidebar:
 # Post Settings
 # ---------------------------------------------------------------
 
+<<<<<<< HEAD
+# Custom Logo.
+# !!Only available for Default Scheme currently.
+# Options:
+#   enabled: [true/false] - Replace with specific image
+#   image: url-of-image   - Images's url
+custom_logo:
+  enabled: true
+  image: /images/logo.png
+
+
+# Code Highlight theme
+# Available value:
+#    normal | night | night eighties | night blue | night bright
+# https://github.com/chriskempson/tomorrow-theme
+highlight_theme: night eighties
+
+
+=======
+>>>>>>> aba53d233d1caaf8cb7eb8faa875d077d6474e14
 # Automatically scroll page to section which is under <!-- more --> mark.
 scroll_to_more: true
 
@@ -241,15 +264,15 @@ post_meta:
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: true
-  image: /images/logo.png
+  enabled: false
+  image:
 
 
 # Code Highlight theme
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night eighties
+highlight_theme: normal
 
 
 # ---------------------------------------------------------------
@@ -304,14 +327,15 @@ google_analytics: UA-50282295-4
 # CNZZ count
 #cnzz_siteid:
 
-
+<<<<<<< HEAD
 # extreme analytic
 # See: https://extremetracking.com/
 extreme-id: eXF-itabas-0
-
+=======
 # Application Insights
 # See https://azure.microsoft.com/en-us/services/application-insights/
 # application_insights:
+>>>>>>> aba53d233d1caaf8cb7eb8faa875d077d6474e14
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
