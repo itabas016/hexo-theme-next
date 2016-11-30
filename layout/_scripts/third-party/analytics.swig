@@ -3,4 +3,5 @@
 {% include 'analytics/baidu-analytics.swig' %}
 {% include 'analytics/tencent-analytics.swig' %}
 {% include 'analytics/cnzz-analytics.swig' %}
+{% include 'analytics/extreme-analytics.swig' %}
 {% include 'analytics/application-insights.swig' %}
