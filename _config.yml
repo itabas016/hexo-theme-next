@@ -284,6 +284,9 @@ google_analytics: UA-50282295-4
 # CNZZ count
 #cnzz_siteid:
 
+# extreme analytic
+# See: https://extremetracking.com/
+extreme-id: eXF-itabas-0
 
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
