@@ -34,7 +34,7 @@ menu:
   home: /
   archives: /archives
   tags: /tags
-  #categories: /categories
+  categories: /categories
   about: /about
   #schedule: /schedule
   #sitemap: /sitemap.xml
