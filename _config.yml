@@ -17,7 +17,7 @@ rss: atom.xml
 since: 2015
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: leaf
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -40,7 +40,7 @@ menu:
   home: /
   archives: /archives
   tags: /tags
-  #categories: /categories
+  categories: /categories
   about: /about
   #schedule: /schedule
   #sitemap: /sitemap.xml
@@ -212,8 +212,15 @@ sidebar:
 #links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
+links:
   #Title: http://example.com/
+  月光博客: http://www.williamlong.info/
+  酷壳: http://coolshell.cn/
+  李华顺: http://huacnlee.com/
+  王巍: https://onevcat.com/#blog
+  捣乱小子: http://daoluan.net/blog/
+  Hsiaoming Yang: http://lepture.com/
+  更多戳这里: /links
 
 
 # ---------------------------------------------------------------
