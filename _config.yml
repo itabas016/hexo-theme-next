@@ -29,7 +29,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -41,6 +41,7 @@ menu:
   archives: /archives
   tags: /tags
   categories: /categories
+  wiki: http://wiki.itabas.com
   about: /about
   #schedule: /schedule
   #sitemap: /sitemap.xml
@@ -63,6 +64,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  wiki: wikipedia-w
 
 
 
